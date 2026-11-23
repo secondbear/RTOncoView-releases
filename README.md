@@ -24,7 +24,7 @@ The installer is not code-signed yet, so Windows may show "Windows protected you
 ## Trial and licence
 
 RTOncoView runs as a 90-day trial without any licence file; after that it keeps working and
-shows a reminder. Colleagues in research can ask for a free licence: open **Help › Licence…**, choose **Copy a licence request** and email it to
+shows a reminder. Colleagues in research can ask for a free licence: open **Help › Licence…**, choose **Copy a licence request** and email it.
 
 <!-- contact address or form link -->. You will get a `.lic` file to load in the same window.
 
